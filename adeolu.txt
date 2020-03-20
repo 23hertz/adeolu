@@ -1,0 +1,12 @@
+NAME : OLAIYA SHAKIRU ADEOLU
+
+EMAIL : olaiya.adeolu@gmail.com
+
+SLACK USERNAME : adeolu
+
+TRACKS : Front End and Back End
+
+COURSES : Html,
+          Css,
+          Javascript,
+          Nodejs
